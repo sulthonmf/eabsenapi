@@ -1,0 +1,25 @@
+{
+  "name": "eabsenapi",
+  "version": "1.0.0",
+  "description": "api e-absen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulthonmf/eabsenapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node",
+    "js"
+  ],
+  "author": "Sulthon Maulana F",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sulthonmf/eabsenapi/issues"
+  },
+  "homepage": "https://github.com/sulthonmf/eabsenapi#readme"
+}
